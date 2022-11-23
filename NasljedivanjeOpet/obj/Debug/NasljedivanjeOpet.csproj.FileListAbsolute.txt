@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\NasljedivanjeOpet\NasljedivanjeOpet\bin\Debug\NasljedivanjeOpet.exe.config
+C:\Users\ucenik\source\repos\NasljedivanjeOpet\NasljedivanjeOpet\bin\Debug\NasljedivanjeOpet.exe
+C:\Users\ucenik\source\repos\NasljedivanjeOpet\NasljedivanjeOpet\bin\Debug\NasljedivanjeOpet.pdb
+C:\Users\ucenik\source\repos\NasljedivanjeOpet\NasljedivanjeOpet\obj\Debug\NasljedivanjeOpet.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\NasljedivanjeOpet\NasljedivanjeOpet\obj\Debug\NasljedivanjeOpet.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\NasljedivanjeOpet\NasljedivanjeOpet\obj\Debug\NasljedivanjeOpet.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\NasljedivanjeOpet\NasljedivanjeOpet\obj\Debug\NasljedivanjeOpet.exe
+C:\Users\ucenik\source\repos\NasljedivanjeOpet\NasljedivanjeOpet\obj\Debug\NasljedivanjeOpet.pdb
